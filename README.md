@@ -1,4 +1,4 @@
-# Mina-Ziaei
+# MinaZiaei
 # Hi, I'm Mina 👋
 
 📊 Data Analyst (4+ years) | Aspiring Data Scientist in Finance & AI
